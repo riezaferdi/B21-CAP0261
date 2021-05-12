@@ -13,3 +13,4 @@ Sumber :
 12. https://www.semanticscholar.org/paper/Molecular-characterization-of-domestic-and-exotic-S-Lin-Abad/8317d7f033046a4bdfe379909fc8728a3e80e72c/figure/1
 13. https://www.semanticscholar.org/paper/BIOLOGICAL-AND-MOLECULAR-PROPERTIES-OF-POTATO-VIRUS-Lin/6566a44c800adcbd1310d6d6df6f6fa5bd3bffe5
 14. https://pnwhandbooks.org/plantdisease/host-disease/potato-solanum-tuberosum-latent-viruses
+15. https://www.kaggle.com/muhammadardiputra/potato-leaf-disease-dataset
