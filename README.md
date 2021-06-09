@@ -23,7 +23,8 @@ Notebooks :
 https://github.com/riezaferdi/B21-CAP0261/blob/main/colab_master/Master.ipynb 
 2. Prediction :
 https://github.com/riezaferdi/B21-CAP0261/blob/main/colab_master/Predictions.ipynb 
-Cloud Architecture : https://app.diagrams.net/#Hriezaferdi%2FB21-CAP0261%2Fmain%2FRancangan%20Arsitektur.drawio
+3. Cloud Architecture : 
+https://app.diagrams.net/#Hriezaferdi%2FB21-CAP0261%2Fmain%2FRancangan%20Arsitektur.drawio
 
 ## Github Repo Link: 
 https://github.com/riezaferdi/B21-CAP0261 
