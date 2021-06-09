@@ -1,4 +1,5 @@
-Sumber :
+# Resources of Our Datasets
+
 1. http://www.plantphysiol.org/content/134/4/1308/F2
 2. https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/potato-diseases-and-symptoms
 3. https://web2.mendelu.cz/af_291_projekty2/vseo/print.php?page=2826&typ=html
